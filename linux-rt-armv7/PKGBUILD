@@ -2,11 +2,12 @@
 # Maintainer: Kevin Mihelich <kevin@archlinuxarm.org>
 #
 # PREEMPT_RT package by Oleg Semyonov
-# https://github.com/osnwt/ArchLinuxARM-PKGs
+# Source: https://github.com/osnwt/ArchLinuxARM-PKGs
+# Based on: https://github.com/archlinuxarm/PKGBUILDs/tree/master/core/linux-armv7
 #
 # This package provides linux-armv7 compiled with PREEMPT_RT patches.
 # Same name is used to easily replace/upgrade default package by this
-# on and vice-versa.
+# one and vice-versa.
 
 buildarch=4
 
